@@ -269,7 +269,3 @@ mypy your_script.py
 - [PEP 484 – Type Hints](https://peps.python.org/pep-0484/)
 - [mypy 官方文档](https://mypy.readthedocs.io/)
 - [typing 模块官方文档](https://docs.python.org/3/library/typing.html)
-
----
-
-如果你正在写库、大型项目或需要类型安全的代码，**强烈建议使用泛型 + 类型注解**，它能显著提升代码质量和可维护性 ✅
