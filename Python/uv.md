@@ -99,10 +99,6 @@ uv init
 uv add -r requirements.txt
 ```
 
-参考：
-
-- [https://docs.astral.sh/uv](https://docs.astral.sh/uv)
-
 ## uv Python 项目
 
 ```bash
@@ -217,5 +213,3 @@ uv publish
 ## 参考
 
 - [https://docs.astral.sh/uv/](https://docs.astral.sh/uv/)
-
-[发布一个包](https://www.notion.so/20265182765c80519175f973c8ef9b2c?pvs=21)
