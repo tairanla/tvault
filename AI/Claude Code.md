@@ -24,7 +24,7 @@ export ANTHROPIC_AUTH_TOKEN=sk-xxxxxx
 ```json
 {
     "env": {
-        "ANTHROPIC_BASE_URL": "<https://open.bigmodel.cn/api/anthropic>",
+        "ANTHROPIC_BASE_URL": "https://open.bigmodel.cn/api/anthropic",
         "ANTHROPIC_AUTH_TOKEN": "xxxxxx"
     }
 }
